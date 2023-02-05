@@ -8,6 +8,7 @@ Each day, two to three random short activities become available on the app. User
 - App's interface designed in Figma. 
 - Art created in Procreate.
 - Development with SwiftUI and UIKit in XCode.
+Each team member learned to build and built each component separately, which is why the files are all separate. In addition, we used different tools (Storyboard vs SwiftUI), which is why the content may look quite different. Please see our [demo video](https://youtu.be/S5aX-RTcA7s) for a quick look at what the app is supposed to look like put together. 
 
 ## Challenges we ran into
 The first major challenge we ran into occurred after we decided on a vertical and general concept: we were having trouble figuring out what type of application–web-based, computer, or phone–would best accomplish Cranky Critter’s ultimate goal. Initially, we were thinking of using React and Node to develop a web-based application, but since we wanted to add a game-like aspect with the critter, we were considering developing the app completely through Unity as well. We finally decided on Swift because we felt that offering easy access through an iOS app would fit our goal the best.
